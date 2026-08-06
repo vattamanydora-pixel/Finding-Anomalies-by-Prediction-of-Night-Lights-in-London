@@ -5,7 +5,7 @@ Software Used:
 - Python version 3.13
 - Python Libraries: ee, geopandas, geemap, sklearn, rasterio, numpy, rasterstats, requests, statsmodells, matplotlib, folium branca, jinja2, re, libpysal, esda
 
-Datasets (all get extracted if the code is run properly):
+Datasets (all get extracted automatically if the code is run properly):
 - VIIRS night lights dataset
 - GlobalBuildingAtlas dataset
 - Sentinel-2 dataset
