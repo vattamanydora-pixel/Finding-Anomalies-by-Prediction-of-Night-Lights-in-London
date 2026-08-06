@@ -14,4 +14,4 @@ Datasets (all get extracted automatically if the code is run properly):
 
 Running the code:
 - code is mounted on google drive and is designed to run on a google colab environment, specify own root to correctly save the inputs, intermediate and final results
-- gee needs to be authenticated (active GEE account needed)
+- ee needs to be authenticated (active GEE account needed)
