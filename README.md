@@ -1,4 +1,4 @@
-# AI4EO-Final-Project
+# Finding Anomalies by Prediction of Night Lights in London
 Description: we are finding anomalies by prediction of night lights in London based on financial, building volume and greenery data with 3 model approaches: linear regression, random forest and MLP.
 
 Software Used:
